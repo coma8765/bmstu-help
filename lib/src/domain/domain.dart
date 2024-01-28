@@ -1,0 +1,1 @@
+export 'university/model.dart';

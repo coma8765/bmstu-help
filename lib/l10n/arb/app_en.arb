@@ -1,0 +1,12 @@
+{
+    "@@locale": "en",
+    "appBarTitle": "BMSTU Help",
+    "@appBarTitle": {
+        "description": "Application for helping students study in BMSTU"
+    },
+    "universityChooseSubject": "Choose a subject",
+    "universityChooseContent": "Choose a content",
+    "universityDetailedContent": "Detailed information about {contentTitle}",
+    "downloadFailure": "File upload failed",
+    "downloadFile": "Download file"
+}
